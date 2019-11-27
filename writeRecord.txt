@@ -1,0 +1,92 @@
+	24-Jun-14 13:43:04
+Used Time: 	11
+Amount due: 	85.5
+
+24-Jun-14 13:43:30
+Used Time: 	3
+Amount due: 	31.2
+
+24-Jun-14 13:44:12
+Used Time: 	6
+Amount due: 	57.48
+
+24-Jun-14 17:29:37
+Used Time: 	5
+Amount due: 	37.2
+
+24-Jun-14 21:51:34
+Used Time: 	17
+Amount due: 	187.8
+
+24-Jun-14 21:52:13
+Used Time: 	10
+Amount due: 	83
+
+25-Jun-14 21:59:15
+Used Time: 	10
+Amount due: 	83
+
+25-Jun-14 22:01:34
+Used Time: 	10
+Amount due: 	83
+
+25-Jun-14 22:03:58
+Used Time: 	10
+Amount due: 	83
+
+26-Jun-14 17:13:17
+Used Time: 	6
+Amount due: 	51
+
+26-Jun-14 17:17:45
+Used Time: 	5
+Amount due: 	43
+
+26-Jun-14 17:25:40
+Used Time: 	19
+Amount due: 	180
+
+26-Jun-14 17:27:04
+Used Time: 	5
+Amount due: 	50
+
+26-Jun-14 17:28:05
+Used Time: 	17
+Amount due: 	133.4
+
+26-Jun-14 17:31:06
+Used Time: 	19
+Amount due: 	180
+
+26-Jun-14 17:33:54
+Used Time: 	6
+Amount due: 	51
+
+26-Jun-14 17:36:52
+Used Time: 	6
+Amount due: 	51
+
+27-Jun-14 12:53:54
+Used Time: 	4
+Amount due: 	32.92
+
+27-Jun-14 13:36:59
+Used Time: 	2
+Amount due: 	19.7
+
+27-Jun-14 13:38:12
+Used Time: 	1
+Amount due: 	11.5
+
+27-Jun-14 13:43:13
+Used Time: 	5
+Amount due: 	48.4
+
+27-Jun-14 13:51:20
+Used Time: 	1
+Amount due: 	11.48
+
+27-Jun-14 13:52:55
+Used Time: 	7
+Amount due: 	70.12
+

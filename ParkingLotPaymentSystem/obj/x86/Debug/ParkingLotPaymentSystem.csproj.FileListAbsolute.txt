@@ -1,0 +1,14 @@
+C:\Users\iczcool\Desktop\SQLite.NET.0.21_x68_dll\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iczcool\Desktop\SQLite.NET.0.21_x68_dll\ParkingLotPaymentSystem\ParkingLotPaymentSystem\bin\Debug\ParkingLotPaymentSystem.exe
+C:\Users\iczcool\Desktop\SQLite.NET.0.21_x68_dll\ParkingLotPaymentSystem\ParkingLotPaymentSystem\bin\Debug\ParkingLotPaymentSystem.pdb
+C:\Users\iczcool\Desktop\SQLite.NET.0.21_x68_dll\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.exe
+C:\Users\iczcool\Desktop\SQLite.NET.0.21_x68_dll\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.pdb
+C:\Users\iczcool\Desktop\Seng prj\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.exe
+C:\Users\iczcool\Desktop\Seng prj\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.pdb
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\bin\Debug\ParkingLotPaymentSystem.exe
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\bin\Debug\ParkingLotPaymentSystem.pdb
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.csprojAssemblyReference.cache
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.csproj.CopyComplete
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.exe
+C:\Users\CCUK\Desktop\ParkingLotPaymentSystem\ParkingLotPaymentSystem\obj\x86\Debug\ParkingLotPaymentSystem.pdb
